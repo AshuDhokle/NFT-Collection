@@ -1,0 +1,28 @@
+{
+    "sources": {
+        "d:/Blockchain/NFTCollection/CryptoDevs/cryptoDevs.sol": {
+            "ast": {
+                "absolutePath": "d:/Blockchain/NFTCollection/CryptoDevs/cryptoDevs.sol",
+                "exportedSymbols": {},
+                "id": 2,
+                "license": "MIT",
+                "nodeType": "SourceUnit",
+                "nodes": [
+                    {
+                        "id": 1,
+                        "literals": [
+                            "solidity",
+                            "^",
+                            "0.8",
+                            ".24"
+                        ],
+                        "nodeType": "PragmaDirective",
+                        "src": "33:24:0"
+                    }
+                ],
+                "src": "33:27:0"
+            },
+            "id": 0
+        }
+    }
+}
